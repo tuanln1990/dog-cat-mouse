@@ -16,3 +16,8 @@
 
 // git check out => khôi phục chỉnh sửa chưa add
 // git reset => trả từ trạng thái staging -> working directory
+
+
+// git checkout -b <branch> (branching)
+// git checkout <branch>
+// git merge
