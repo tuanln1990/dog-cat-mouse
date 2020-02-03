@@ -12,3 +12,7 @@
 // working directory => Thư mục làm việc
 // staging area => đã add
 // git repository => đã commmit
+
+
+// git check out => khôi phục chỉnh sửa chưa add
+// git reset => trả từ trạng thái staging -> working directory
