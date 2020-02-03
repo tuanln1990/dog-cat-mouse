@@ -8,4 +8,4 @@ Cat.prototype.eat = function(mouse) {
 }
 	// body...
 }
-module.exports = 'Cat';
+module.exports = Cat;
