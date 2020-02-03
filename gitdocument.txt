@@ -20,4 +20,9 @@
 
 // git checkout -b <branch> (branching)
 // git checkout <branch>
-// git merge  ==>> ghep 2 file
+// git merge  ==>> ghep 2 file =>> finish lesson 5
+
+
+// git reset --soft <to_commit> --> trở về trạng thái theo id commit
+// git reset --mixed <to_commit>
+// git reset --hard <to_commit>
