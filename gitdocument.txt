@@ -1,0 +1,10 @@
+// git init --->>  khởi tạo 
+// git status ---->> trạng thái
+
+// git add ---->> add file
+// git commit ---->>> Đóng gói 
+
+
+// git log -->>> xem những gì đã commit
+// git show -->> show commit cần xem 
+// git diff --->> so sánh khác nhau giữa 2 lần commit
