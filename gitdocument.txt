@@ -8,3 +8,7 @@
 // git log -->>> xem những gì đã commit
 // git show -->> show commit cần xem 
 // git diff --->> so sánh khác nhau giữa 2 lần commit
+
+// working directory => Thư mục làm việc
+// staging area => đã add
+// git repository => đã commmit
