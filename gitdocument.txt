@@ -20,4 +20,4 @@
 
 // git checkout -b <branch> (branching)
 // git checkout <branch>
-// git merge
+// git merge  ==>> ghep 2 file
