@@ -1,5 +1,6 @@
-function Mouse(name) {
+function Mouse(name, weigth) {
 	this.name = name;
+	this.weigth = weigth;
 	this.dead = false;
 }
 
