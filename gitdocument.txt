@@ -7,4 +7,4 @@
 
 // git log -->>> xem những gì đã commit
 // git show -->> show commit cần xem 
-
+// git diff --->> so sánh khác nhau giữa 2 lần commit
